@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 from docx import Document
 import pdfplumber
-import csv
+import csv #Already within Base Python
 import io
 import os
 import json
